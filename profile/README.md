@@ -22,6 +22,10 @@
 
 AI-controlled microkernel operating system — Rust-based, eBPF-powered, designed for AI to manage the entire OS.
 
+#### Nucleus
+
+Production-grade authentication platform — Rust-based, multi-tenant auth SaaS with SDKs for 13+ platforms.
+
 #### Orbit
 
 Personal finance management system — ledger-based double-entry accounting with multi-currency support.
